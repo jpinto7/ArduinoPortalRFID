@@ -1,5 +1,3 @@
-
-
 #include <SPI.h>                                    // RC522 Module uses SPI protocol
 #include <MFRC522.h>                                // Library for Mifare RC522 Device
 #include <ArduinoJson.h>                            // Library to serialize/deserialize data as JSON
